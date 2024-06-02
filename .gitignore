@@ -1,0 +1,9 @@
+config/.env
+venv
+.idea
+parser/__pycache__
+config/__pycache__
+app/__pycache__
+app/handlers/__pycache__
+app/middleware/__pycache__
+app/utils/__pycache__
